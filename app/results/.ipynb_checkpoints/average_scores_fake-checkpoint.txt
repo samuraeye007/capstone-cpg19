@@ -1,0 +1,2 @@
+/home/Veni_BE/cpg19dfbio/AVCeleb_processed/0_real: 0.0926
+/home/Veni_BE/cpg19dfbio/AVCeleb_processed/1_fake: 0.7187
